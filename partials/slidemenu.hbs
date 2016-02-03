@@ -23,11 +23,6 @@
     </a>
   </li>
   <li>
-    <a href="{{@blog.url}}/tag/design">
-      <i class="fa fa-heart fa-2x"></i> DESIGN
-    </a>
-  </li>    
-  <li>
     <a href="{{@blog.url}}/tag/books">
       <i class="fa fa-book fa-2x"></i> BOOKS
     </a>
@@ -38,29 +33,13 @@
     </a>
   </li>
 
-
-
-  <li class="slidemenu-divider"></li>
-  <li>
-    FOLLOW
-  </li>
-  <li>
-    <a href="https://twitter.com/mistergf" target="_blank">
-      <i class="fa fa-twitter fa-2x"></i> TWITTER
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/mistergf" target="_blank">
-      <i class="fa fa-github fa-2x"></i> GITHUB
-    </a>
-  </li>
-
-
 {{#if tags}}
 <ul>
-{{#foreach tags}}
-<li>{{name}}</li>
-{{/foreach}}
+  {{#foreach tags}}
+    <li>
+      <a href="{{@blog.url}}/tag/{{name}}"> {{name}} </a>
+    </li>
+  {{/foreach}}
 </ul>
 {{/if}}
 </ul>
