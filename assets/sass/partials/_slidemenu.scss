@@ -8,7 +8,8 @@
   top: 10px;
   width: 45px;
   height: 45px;
-  background-color: rgba(0,0,0,0.6);
+  background-color: $gray-light;
+  border-radius: 15%;
   overflow: hidden;
   z-index: 99;
   
@@ -29,7 +30,7 @@
   margin-left: -250px;
   left: 0;
   width: 250px;
-  background: $medium-black;
+  background: $pure-white;
   position: fixed;
   height: 100%;
   overflow-y: auto;
