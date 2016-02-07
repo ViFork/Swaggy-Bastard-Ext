@@ -4,11 +4,12 @@ Swaggy Bastard Theme for Ghost
 A free boilerplate responsive theme for [Ghost](https://ghost.org) blogging platform.
 
 Swaggy Bastard is a fork of <a href="https://github.com/karloespiritu/Bastard">Bastard!</a>
-It mostly contains UI changes to make the theme look a lighter.
+Swaggy Bastard Ext is a fork of <a href="https://github.com/misterGF/Swaggy-Bastard">Swaggy Bastard!</a>
+I had to modify a bunch of colors because the Swaggy Bastard theme was not re-generated and generating it was causing the theme to not be as displayed on gferreira website.
+
 ## Demo
 
-I'm using this theme for my personal site, [gferreira.me](http://gferreira.me)
-![gferreira.me screenshot](http://res.cloudinary.com/gatec21/image/upload/v1416866665/gil_blog_lfkr9g.png)
+I'm using this theme for my personal site, [dubedout.eu](http://dubedout.eu)
 
 ## Download
 
