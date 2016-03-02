@@ -1,4 +1,4 @@
-/*! SwaggyBastard - v1.0.0 - 2016-02-03
+/*! SwaggyBastard - v1.0.0 - 2016-03-02
 * https://github.com/misterGF/SwaggyBastard
 * Copyright (c) 2016 Gil - MIT License
 */
@@ -103,7 +103,7 @@
 .hljs-link {
   text-decoration: underline;
 }
-;/*! SwaggyBastard - v1.0.0 - 2016-02-03
+;/*! SwaggyBastard - v1.0.0 - 2016-03-02
 * https://github.com/misterGF/SwaggyBastard
 * Copyright (c) 2016 Gil - MIT License
 */
@@ -3638,7 +3638,7 @@ h5 { font-size: 2.5rem; }
 
 h6 { font-size: 2rem; }
 
-a { color: #ffeb99; transition: color ease 0.3s; }
+a { color: #edd021; transition: color ease 0.3s; }
 a:hover { color: #caad00; }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #50585D; }
@@ -3665,7 +3665,7 @@ blockquote cite a { font-weight: normal; }
 
 mark { background-color: #ffc336; }
 
-code, tt { padding: 1px 3px; font-family: Inconsolata, monospace, sans-serif; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #333; background: #222; border-radius: 5px; }
+code, tt { padding: 1px 3px; font-family: Inconsolata, monospace, sans-serif; font-size: 0.85em; white-space: pre-wrap; border: 1px solid #333; background: #bbbbbb; border-radius: 5px; }
 
 pre { -moz-box-sizing: border-box; box-sizing: border-box; margin: 1.6em 0; border: 1px solid #666666; width: 100%; padding: 10px; font-family: Inconsolata, monospace, sans-serif; font-size: 0.9em; white-space: pre; overflow: auto; background: #000000; border-radius: 10px; }
 pre code { font-size: inherit; white-space: -moz-pre-wrap; white-space: pre-wrap; background: transparent; border: none; padding: 0; }

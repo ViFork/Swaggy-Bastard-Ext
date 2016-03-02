@@ -1,4 +1,4 @@
-/*! SwaggyBastard - v1.0.0 - 2016-02-03
+/*! SwaggyBastard - v1.0.0 - 2016-03-02
 * https://github.com/misterGF/SwaggyBastard
 * Copyright (c) 2016 Gil - MIT License
 */
